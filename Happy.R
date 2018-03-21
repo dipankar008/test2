@@ -4,3 +4,5 @@ ggplot(diamonds,
        aes(x= cut))+
   geom_bar()
 
+print("Hi")
+
